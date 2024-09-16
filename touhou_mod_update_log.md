@@ -1,13 +1,14 @@
 ## [东方繁星录 ~ special touhou species](https://steamcommunity.com/sharedfiles/filedetails/?id=1834433554)更新日志
 ### 2023.6.27及之后的更新内容
-#### by [KKoishi_](https://github.com/Koishi-Satori)(绝赞摸鱼型咕咕鸟/[地瓜](https://steamcommunity.com/id/Satori_KKoishi)/古明地瓜)
-
-这是古明地恋，放在这里只是因为她真的很可爱。
-![古明地恋png](https://upload.thbwiki.cc/a/ac/%E5%8F%A4%E6%98%8E%E5%9C%B0%E6%81%8B%EF%BC%88%E6%B7%B1%E7%A7%98%E5%BD%95%E7%AB%8B%E7%BB%98_%E8%B4%9F%EF%BC%89.png)
+#### by [KKoishi_](https://github.com/Koishi-Satori)(绝赞摸鱼型咕咕鸟/[地瓜](https://steamcommunity.com/id/Satori_KKoishi)/古明地瓜
 
 这里记载了从2023.9.13到今日的东方繁星录更新日志。
 笔者写这个单纯一时兴起，前前后后从鸽子发起，中途经历波波折折走到了这一步，至少可以记录下变迁什么的，大概是这么个意思吧。
 本mod的船模来自于Paragon的STREGE船模，唯一指定群聊：5909202。大概没什么还要写的了，嘛，那，就开始吧。
+
+哦对了，这是古明地恋，放在这里只是因为她真的很可爱。
+
+![古明地恋png](./koishi.png)
 
 - 2.0.beta2 结界消逝版本 # 未确定
     - 这是一个尚在更新测试环境的版本。
